@@ -1,16 +1,22 @@
 {
-    "blogs":[
-        {
-            "title": "My new site",
-            "body": "lorem ipsum...",
-            "author":"Shashini",
-            "id":1
-        },
-        {
-            "title": "Welcome Party",
-            "body": "lorem ipsum...",
-            "author":"Ramalka",
-            "id":2
-        }
-    ]
+  "blogs": [
+    {
+      "title": "My new site",
+      "body": "lorem ipsum...",
+      "author": "Shashini",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party",
+      "body": "lorem ipsum...",
+      "author": "Ramalka",
+      "id": 2
+    },
+    {
+      "title": "sdsdsdsds",
+      "body": "dsdsdsds",
+      "author": "Lakindu",
+      "id": 3
+    }
+  ]
 }
