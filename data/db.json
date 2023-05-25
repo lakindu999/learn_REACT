@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "My new site",
-      "body": "lorem ipsum...",
-      "author": "Shashini",
-      "id": 1
-    },
-    {
       "title": "Welcome Party",
       "body": "lorem ipsum...",
       "author": "Ramalka",
@@ -17,6 +11,12 @@
       "body": "dsdsdsds",
       "author": "Lakindu",
       "id": 3
+    },
+    {
+      "title": "Hello mama lakias",
+      "body": "dasddasdasdasdasdas",
+      "author": "Lakindu",
+      "id": 4
     }
   ]
 }
